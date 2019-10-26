@@ -3,6 +3,7 @@
 ## [Beyond Alternating Updates for Matrix Factorization with Inertial Bregman Proximal Gradient Algorithms](https://arxiv.org/abs/1905.09050) 
 by Mahesh Chandra Mukkamala and Peter Ochs, Mathematical Optimization Group, Saarland University.
 
+### [Part 1: Matrix Factorization](https://github.com/mmahesh/cocain-bpg-matrix-factorization)
 ## Algorithms Implemented:
 
 **BPG-MF**: Bregman Proximal Gradient (BPG) for  Matrix Factorization  
